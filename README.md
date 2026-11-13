@@ -142,4 +142,4 @@ This repository serves as the official landing page for **ADInstruments Audio Ou
 **Get the most recent version of ADInstruments Audio Output today!**
 
 ---
-**Last updated:** 2026-11-13 01:36:21 UTC
+**Last updated:** 2026-11-13 08:57:10 UTC
